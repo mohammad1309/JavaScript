@@ -45,5 +45,5 @@ let user2 = user1
 
 user2.email = "ayaansiuuu@gmail.com"
 
-console.log(user1, user2)
+console.log(user1.email, user2.email)
 
