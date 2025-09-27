@@ -25,3 +25,25 @@ const myFunction = function(){
 console.log(names)
 console.log(myObj)
 console.log(myFunction) // ???? will learn about this
+
+// memory
+// stack (primitive) , heap (non-primitive)
+
+let myName = "ayaan"
+let fullName = myName
+fullName = "ayaan sheikh"
+
+console.log(myName)
+console.log(fullName)
+
+let user1 = {
+    email: "ayaansheikh@gmail.com",
+    upi: "siusiu@sbi"
+}
+
+let user2 = user1
+
+user2.email = "ayaansiuuu@gmail.com"
+
+console.log(user1, user2)
+
