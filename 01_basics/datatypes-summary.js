@@ -6,7 +6,7 @@ number, string, bigInt, null, undefined, symbol, boolean
 let id = Symbol('123')
 let id2 = Symbol('123')
 
-console.log(id == id2)
+console.log(id === id2)
 
 // non-primitive datatypes
 // array, objects, functions
