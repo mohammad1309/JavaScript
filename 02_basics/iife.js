@@ -2,7 +2,7 @@
 
 (function siuu(){
     console.log("connected")
-}) ();
+}) () ;
 
 // () ()
 // jo function immediately execute ho jaye
