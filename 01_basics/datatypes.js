@@ -1,4 +1,4 @@
-"use strict"; // treat all JS code as newer version
+  "use strict"; // treat all JS code as newer version
 
 // cant use alert becs we are using node js not browser
 
