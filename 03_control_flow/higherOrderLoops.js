@@ -23,7 +23,7 @@ map.set('In', "India")
 // }
 
 
-// for in loop
+// for in loop is used to loop objects
 
 const myObj = {
     js : "JavaScript",
