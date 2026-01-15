@@ -44,7 +44,6 @@ handleObj(userDetails)
 const arr = [200, 400, 500, 600]
 
 function returnSecValue(getArray){
-    console.log(getArray[3])
+    returnSecValue(arr)    
 }
-
-returnSecValue(arr)
+console.log(getArray[3])
